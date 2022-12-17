@@ -22,8 +22,8 @@ Simple web design of an QR code.
 
 ### Links
 
-- Solution URL: [](https://github.com/VeroBaz/qr-code-component)
-- Live Site URL: [](https://verobaz.github.io/qr-code-component/)
+- Solution URL: https://github.com/VeroBaz/qr-code-component
+- Live Site URL: https://verobaz.github.io/qr-code-component/
 
 ## My process
 
